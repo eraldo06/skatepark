@@ -6,3 +6,30 @@
 header div a{
     color: white !important; 
 }
+
+nav{
+    background-image:url(./fundo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    color: white;
+}
+
+nav div{
+    margin-left: 10%;
+    display: flex;
+}
+
+nav div h1{
+    margin-top: 20%;
+}
+
+.aulas{
+    margin: 3%;
+}
+
+.aulas img{
+    height: 400px;
+}
+
