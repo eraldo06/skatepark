@@ -33,3 +33,9 @@ nav div h1{
     height: 400px;
 }
 
+section{
+    background-color: rgb(218, 232, 249);
+}
+.btn{
+    background-color: rgb(24, 16, 87);
+}
