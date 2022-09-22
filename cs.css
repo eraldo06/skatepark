@@ -39,3 +39,7 @@ section{
 .btn{
     background-color: rgb(24, 16, 87);
 }
+
+footer{
+    background-color: rgba(2, 157, 247, 0.695) !important; 
+}
