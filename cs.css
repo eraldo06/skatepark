@@ -33,11 +33,17 @@ nav div h1{
     height: 400px;
 }
 
-section{
+.precos{
     background-color: rgb(218, 232, 249);
 }
 .btn{
     background-color: rgb(24, 16, 87);
+}
+
+.skate-base-liberdade{
+    background-color: black;
+    height: 300px;
+    color: white;
 }
 
 footer{
