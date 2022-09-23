@@ -27,6 +27,7 @@ nav div h1{
 
 .aulas{
     margin: 3%;
+    width: auto;
 }
 
 .aulas img{
@@ -41,9 +42,21 @@ nav div h1{
 }
 
 .skate-base-liberdade{
-    background-color: black;
+    background-image: url(./skate.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     height: 300px;
     color: white;
+}
+
+ul li{
+    text-decoration: none;
+    list-style: none;
+}
+
+form input{
+    width: 400px !important;
 }
 
 footer{
