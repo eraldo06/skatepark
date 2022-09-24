@@ -43,6 +43,7 @@ nav div h1{
 }
 .btn{
     background-color: rgb(24, 16, 87);
+    border: none;
 }
 
 .skate-base-liberdade{
@@ -56,7 +57,9 @@ nav div h1{
 
 ul li{
     text-decoration: none;
-    list-style: none;
+    /* list-style: none; */
+   
+
 }
 
 form input{
