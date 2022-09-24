@@ -65,4 +65,9 @@ form input{
 
 footer{
     background-color: rgba(2, 157, 247, 0.695) !important; 
+    font-size: 12px;
+}
+
+.icone{
+    width: 40px;
 }
