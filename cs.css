@@ -1,3 +1,25 @@
+.section-aulas{
+    background-color:rgba(124, 169, 194, 0.25) ;
+}
+.cor-azul{
+    color: #00A4FF;
+}
+.card-body ul li{
+    align-items: flex-start !important;
+    color:#00A4FF;
+      
+}
+.card-body ul li span{
+    align-items: flex-start !important;
+    color:#8496A0;
+      
+}
+.section-aulas .btn{
+    width: 80%;
+    background-color: #01304A;
+    border-radius: none;
+}
+
 @media only screen and (max-width: 600px){
     .skate-sol{
         max-height: 30vh;
