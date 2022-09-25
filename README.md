@@ -5,10 +5,11 @@
 ## 💻 Sobre o projeto
 
 <br>
-- Projeto base nesse Figma https://www.figma.com/file/xU5mT5biWlv2YS8UsQVIt8/Gama/duplicate
+- Projeto base no Figma https://www.figma.com/file/xU5mT5biWlv2YS8UsQVIt8/Gama/duplicate
+- Responsividade Ok
+
 
 ---
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -22,7 +23,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-<iframe src="https://www.jsdelivr.com/" frameborder="0"></iframe>b
+
+
 
 <h2> 👨‍💻 Criador </h2><br>
 
@@ -40,3 +42,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
   </tr>
 </table> </h2>
+
+---
+
+## 🛠 Site
+
+<center> <img align=center width=80% src="./assets/SkatePark (1).png" alt=""> </center>
+
