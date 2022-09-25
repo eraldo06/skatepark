@@ -1,29 +1,13 @@
-<h1 align=center> La Vie - Saúde Mental </hi> <br>
+<h1 align=center> Skate Park</hi> <br>
 
-<img src="./src/img/Logo LaVie.jpeg" alt="Logo da Clínica">
+<img  height=200px  src="./assets/skate-por-do-sol.jpg" alt="Logo da Skate Park">
 
 ## 💻 Sobre o projeto
 
 <br>
-- Neste projeto foi feito uma API para criar registros de psicólogos, pacientes e seus prontuários de uma clínica de saúde mental
-
-- Projeto desenvolvido durante o desafio **Hands On** oferecido pela **Gama Academy**.
+- Projeto base nesse Figma https://www.figma.com/file/xU5mT5biWlv2YS8UsQVIt8/Gama/duplicate
 
 ---
-
-## :file_folder: Funcionalidades da Projeto
-
-- Post/Login
-- Get/Listar
-- Post/Cadastrar
-- Put/Editar
-- Delete/Apagar
-
----
-
-
----
-
 
 ## 🛠 Tecnologias
 
@@ -38,7 +22,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-<h2> 👨‍💻 Contribuidores </h2><br>
+<iframe src="https://www.jsdelivr.com/" frameborder="0"></iframe>b
+
+<h2> 👨‍💻 Criador </h2><br>
 
 <h2>
 
