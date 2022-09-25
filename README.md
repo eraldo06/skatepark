@@ -5,8 +5,8 @@
 ## 💻 Sobre o projeto
 
 <br>
-- Projeto base no Figma https://www.figma.com/file/xU5mT5biWlv2YS8UsQVIt8/Gama/duplicate
-- Responsividade Ok
+- Projeto base no Figma https://www.figma.com/file/xU5mT5biWlv2YS8UsQVIt8/Gama/duplicate <br>
+- Responsividade Ok 
 
 
 ---
