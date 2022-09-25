@@ -184,52 +184,72 @@
     CONTATO FORMULARIO
 ------------------------------- -->
 
-  <section class="container">
-    <h2 class="display-6 fw-bold text-center mb-3">Contato</h2>
+  <section>
+    <h2 class="display-6 fw-bold text-center  mt-3">Contato</h2>
 
-    <div class="container d-flex justify-content-evenly flex-wrap">
-    <div class="">
+    <div class="container d-flex justify-content-evenly flex-wrap div-contato">
+    <div class="div-contato-f">
       <form action="">
         <div class="mb-3">
-          <label for="nome" class="form-label">Nome</label>
-          <input type="text" class="form-control" placeholder="Informe seu nome" id="nome" />
+          <label for="nome" class="form-label"><strong>Nome</strong></label>
+          <input type="text" class="form-control" id="nome" />
         </div>
         <div class="mb-3">
-          <label for="email" class="form-label">Email</label>
-          <input type="email" class="form-control" placeholder="Informe seu email" id="email" />
+          <label for="email" class="form-label"><strong>Email</strong></label>
+          <input type="email" class="form-control"  id="email" />
         </div>
         <div class="mb-3">
-          <label for="mensagem" class="form-label">Mensagem</label>
+          <label for="mensagem" class="form-label"><strong>Mensagem</strong></label>
           <textarea class="form-control" id="mensagem"></textarea>
         </div>
         <button type="submit" class="btn btn-primary">
-          Enviar mensagem
+          ENVIAR MENSAGEM
         </button>
       </form>
     </div>
-    <div class="offset-2">
+    <div class="div-contato-c">
       <div class="mb-3">
-        <strong class="fs-4">Endereço</strong>
-        <p class="mb-0 fs-5">Rua Daventura, 156</p>
-        <p class="mb-0 fs-5">Curitiba - PR</p>
+        <strong class="fs-5">Endereço</strong>
+        <p class="mb-0 fs-6">Rua Daventura, 156</p>
+        <p class="mb-0 fs-6">Curitiba - PR</p>
       </div>
       <div class="mb-3">
-        <strong class="fs-4">Endereço</strong>
-        <p class="mb-0 fs-5">Rua Daventura, 156</p>
-        <p class="mb-0 fs-5">Curitiba - PR</p>
+        <strong class="fs-5">Email e telefone</strong>
+        <p class="mb-0 fs-6">contato@skatepark.com.br</p>
+        <p class="mb-0 fs-6">(41) 99999-9999</p>
       </div>
       <div class="mb-3">
-        <strong class="fs-4">Endereço</strong>
-        <p class="mb-0 fs-5">Rua Daventura, 156</p>
-        <p class="mb-0 fs-5">Curitiba - PR</p>
+        <strong class="fs-5">Endereço</strong>
+        <p class="mb-0 fs-6">De Segunda à Sexta</p>
+        <p class="mb-0 fs-6">Das 09h às 19h</p>
+        <p class="mb-0 fs-6">Sábado</p>
+        <p class="mb-0 fs-6">Das 09h às 17h</p>
       </div>
     </div>
   </div>
   </section>
 
+  <!-- 
+    FOOTER
+   -->
 
 
 
+   <footer style="background-color: #00A4FF">
+    <div
+      class="container py-3 d-flex align-items-center justify-content-between mt-5"
+    >
+      <p class="mb-0 text-light fw-bold">
+        <span class="text-uppercase">SkatePark 2022</span> - Alguns direitos
+        reservados.
+      </p>
+      <img
+        src="./assets/skate.png"
+        class="img-responsive"
+        alt="ícone de skate"
+      />
+    </div>
+  </footer>
 
 
 
