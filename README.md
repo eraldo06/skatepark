@@ -35,7 +35,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <tr>
 
 
- <td align="center" width=150> <img src="./src/img/eraldo.jfif" width=100/> </br><a href="https://www.linkedin.com/in/eraldo-leonardo/"> Eraldo Leonardo </a>
+ <td align="center" width=150> <img  src="./assets/eraldo.jfif" /> </br><a href="https://www.linkedin.com/in/eraldo-leonardo/"> Eraldo Leonardo </a>
    </td>
    
 
